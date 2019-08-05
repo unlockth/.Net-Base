@@ -1,0 +1,6 @@
+E:\work\project\C#\Net基础第六天\02枚举\bin\Debug\02枚举.exe.config
+E:\work\project\C#\Net基础第六天\02枚举\bin\Debug\02枚举.exe
+E:\work\project\C#\Net基础第六天\02枚举\bin\Debug\02枚举.pdb
+E:\work\project\C#\Net基础第六天\02枚举\obj\Debug\02枚举.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础第六天\02枚举\obj\Debug\02枚举.exe
+E:\work\project\C#\Net基础第六天\02枚举\obj\Debug\02枚举.pdb

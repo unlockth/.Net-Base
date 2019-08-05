@@ -1,0 +1,6 @@
+E:\work\project\C#\Net基础第六天\03枚举类型的和string以及int类型之间的转换\bin\Debug\03枚举类型的和string以及int类型之间的转换.exe.config
+E:\work\project\C#\Net基础第六天\03枚举类型的和string以及int类型之间的转换\bin\Debug\03枚举类型的和string以及int类型之间的转换.exe
+E:\work\project\C#\Net基础第六天\03枚举类型的和string以及int类型之间的转换\bin\Debug\03枚举类型的和string以及int类型之间的转换.pdb
+E:\work\project\C#\Net基础第六天\03枚举类型的和string以及int类型之间的转换\obj\Debug\03枚举类型的和string以及int类型之间的转换.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础第六天\03枚举类型的和string以及int类型之间的转换\obj\Debug\03枚举类型的和string以及int类型之间的转换.exe
+E:\work\project\C#\Net基础第六天\03枚举类型的和string以及int类型之间的转换\obj\Debug\03枚举类型的和string以及int类型之间的转换.pdb

@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础第六天\01常量\bin\Debug\01常量.exe.config
+E:\work\project\C#\Net基础第六天\01常量\bin\Debug\01常量.exe
+E:\work\project\C#\Net基础第六天\01常量\bin\Debug\01常量.pdb
+E:\work\project\C#\Net基础第六天\01常量\obj\Debug\01常量.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础第六天\01常量\obj\Debug\01常量.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础第六天\01常量\obj\Debug\01常量.exe
+E:\work\project\C#\Net基础第六天\01常量\obj\Debug\01常量.pdb
