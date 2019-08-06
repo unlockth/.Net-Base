@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础\Net基础第六天\07数组\bin\Debug\07数组.exe.config
+E:\work\project\C#\Net基础\Net基础第六天\07数组\bin\Debug\07数组.exe
+E:\work\project\C#\Net基础\Net基础第六天\07数组\bin\Debug\07数组.pdb
+E:\work\project\C#\Net基础\Net基础第六天\07数组\obj\Debug\07数组.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础\Net基础第六天\07数组\obj\Debug\07数组.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础\Net基础第六天\07数组\obj\Debug\07数组.exe
+E:\work\project\C#\Net基础\Net基础第六天\07数组\obj\Debug\07数组.pdb
