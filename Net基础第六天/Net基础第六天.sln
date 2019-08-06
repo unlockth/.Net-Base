@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02枚举", "02枚举\02枚�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03枚举类型的和string以及int类型之间的转换", "03枚举类型的和string以及int类型之间的转换\03枚举类型的和string以及int类型之间的转换.csproj", "{7AE631FF-5570-4539-AB9E-03F716ACF8BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05结构", "05结构\05结构.csproj", "{31E401DB-5763-4D52-B01E-465C2C652DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06结构练习", "06结构练习\06结构练习.csproj", "{034C43DD-A8D6-4E6F-860B-FD5745420E85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7AE631FF-5570-4539-AB9E-03F716ACF8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE631FF-5570-4539-AB9E-03F716ACF8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE631FF-5570-4539-AB9E-03F716ACF8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E401DB-5763-4D52-B01E-465C2C652DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E401DB-5763-4D52-B01E-465C2C652DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E401DB-5763-4D52-B01E-465C2C652DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E401DB-5763-4D52-B01E-465C2C652DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034C43DD-A8D6-4E6F-860B-FD5745420E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034C43DD-A8D6-4E6F-860B-FD5745420E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034C43DD-A8D6-4E6F-860B-FD5745420E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034C43DD-A8D6-4E6F-860B-FD5745420E85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

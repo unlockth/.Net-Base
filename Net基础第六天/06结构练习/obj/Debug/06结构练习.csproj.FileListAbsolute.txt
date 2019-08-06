@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\bin\Debug\06结构练习.exe.config
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\bin\Debug\06结构练习.exe
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\bin\Debug\06结构练习.pdb
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\obj\Debug\06结构练习.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\obj\Debug\06结构练习.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\obj\Debug\06结构练习.exe
+E:\work\project\C#\Net基础\Net基础第六天\06结构练习\obj\Debug\06结构练习.pdb
