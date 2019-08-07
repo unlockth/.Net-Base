@@ -3,5 +3,11 @@
 语法：
 数组类型[] 数组名 = new 数组类型[数组长度];
 
+数组的第一种创建方式：
+	int[] nums = new int[10]; // 默认值为0
+	bool[] bools = new bool[10]; // 默认值为false
+	string[] strs = new string[10]; // 默认值为null，不占用空间
+数组的第二种创建方式：
+	int[] nums = {1,2,3};
 
 ***数组的长度一旦固定了，就不能再被改变了
