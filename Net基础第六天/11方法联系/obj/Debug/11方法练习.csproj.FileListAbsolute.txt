@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\bin\Debug\11方法联系.exe.config
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\bin\Debug\11方法联系.exe
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\bin\Debug\11方法联系.pdb
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\obj\Debug\11方法练习.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\obj\Debug\11方法练习.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\obj\Debug\11方法联系.exe
+E:\work\project\C#\Net基础\Net基础第六天\11方法联系\obj\Debug\11方法联系.pdb

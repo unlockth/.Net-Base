@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\bin\Debug\09冒泡排序.exe.config
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\bin\Debug\09冒泡排序.exe
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\bin\Debug\09冒泡排序.pdb
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\obj\Debug\09冒泡排序.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\obj\Debug\09冒泡排序.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\obj\Debug\09冒泡排序.exe
+E:\work\project\C#\Net基础\Net基础第六天\09冒泡排序\obj\Debug\09冒泡排序.pdb

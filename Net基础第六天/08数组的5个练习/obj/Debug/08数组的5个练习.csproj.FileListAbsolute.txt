@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\bin\Debug\08数组的5个练习.exe.config
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\bin\Debug\08数组的5个练习.exe
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\bin\Debug\08数组的5个练习.pdb
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\obj\Debug\08数组的5个练习.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\obj\Debug\08数组的5个练习.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\obj\Debug\08数组的5个练习.exe
+E:\work\project\C#\Net基础\Net基础第六天\08数组的5个练习\obj\Debug\08数组的5个练习.pdb

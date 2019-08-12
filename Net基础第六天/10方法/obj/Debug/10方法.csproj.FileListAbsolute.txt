@@ -1,0 +1,7 @@
+E:\work\project\C#\Net基础\Net基础第六天\10方法\bin\Debug\10方法.exe.config
+E:\work\project\C#\Net基础\Net基础第六天\10方法\bin\Debug\10方法.exe
+E:\work\project\C#\Net基础\Net基础第六天\10方法\bin\Debug\10方法.pdb
+E:\work\project\C#\Net基础\Net基础第六天\10方法\obj\Debug\10方法.csprojAssemblyReference.cache
+E:\work\project\C#\Net基础\Net基础第六天\10方法\obj\Debug\10方法.csproj.CoreCompileInputs.cache
+E:\work\project\C#\Net基础\Net基础第六天\10方法\obj\Debug\10方法.exe
+E:\work\project\C#\Net基础\Net基础第六天\10方法\obj\Debug\10方法.pdb
